@@ -1,7 +1,8 @@
 ## Create a course selling website
 
 ### Description
-You need to implement a course selling app. Make sure you setup your own mongodb instance before starting. 
+You need to implement a course selling app. Make sure you setup your own mongodb instance before starting.
+"//mongodb+srv://vaishnavikshirsagar:root@cluster0.mubdfaz.mongodb.net/" 
 It needs to support two types of users - 
 1. Admins
 2. Users
